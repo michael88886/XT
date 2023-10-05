@@ -1,1 +1,1 @@
-test
+Test CODEOWNERS in ownership dir.
